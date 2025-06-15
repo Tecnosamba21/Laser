@@ -1,0 +1,27 @@
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>CFBundlePackageType</key>
+        <string>APPL</string>
+        <key>CFBundleName</key>
+        <string>Laser</string>
+        <key>CFBundleExecutable</key>
+        <string>SamAPI</string>
+        <key>CFBundleIdentifier</key>
+        <string>com.tecnosamba21.laser</string>
+        <key>CFBundleVersion</key>
+        <string>v1.0.0</string>
+        <key>CFBundleGetInfoString</key>
+        <string>Take a look to the GitHub repo of the project: https://github.com/tecnosamba21/laser</string>
+        <key>CFBundleShortVersionString</key>
+        <string>v1.0.0</string>
+        <key>CFBundleIconFile</key>
+        <string>icons</string>
+        <key>LSMinimumSystemVersion</key>
+        <string>10.13.0</string>
+        <key>NSHighResolutionCapable</key>
+        <string>true</string>
+        <key>NSHumanReadableCopyright</key>
+        <string>(c) 2025, TecnoSamba21</string>
+    </dict>
+</plist>
